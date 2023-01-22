@@ -1,4 +1,4 @@
-# 長谷川研究室サイト
+# 🍺 長谷川研究室サイト 🍺
 
 ## ドキュメント
 - [Google Drive](https://drive.google.com/drive/folders/0AOHPi4wnlezvUk9PVA)
